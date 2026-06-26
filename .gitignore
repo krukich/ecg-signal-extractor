@@ -1,0 +1,12 @@
+.venv/
+venv/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+
+output/
+output_test/
+debug/
+*.zip
+*.log
