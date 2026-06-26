@@ -1,10 +1,22 @@
-.venv/
-venv/
-.idea/
-.vscode/
+# Python
 __pycache__/
 *.py[cod]
+*$py.class
 
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Project outputs
 output/
 output_test/
 debug/
