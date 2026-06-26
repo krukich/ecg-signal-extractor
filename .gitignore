@@ -15,10 +15,3 @@ env/
 # System files
 .DS_Store
 Thumbs.db
-
-# Project outputs
-output/
-output_test/
-debug/
-*.zip
-*.log
